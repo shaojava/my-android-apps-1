@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;contactPicker/res/layout/ContentPickerTester.xml&apos; to &apos;contentpickertester.xml&apos;" description="Rename resource &apos;ContentPickerTester.xml&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="res/layout/ContentPickerTester.xml" name="contentpickertester.xml" stamp="1331140819507" updateReferences="true"/>
+</session>
