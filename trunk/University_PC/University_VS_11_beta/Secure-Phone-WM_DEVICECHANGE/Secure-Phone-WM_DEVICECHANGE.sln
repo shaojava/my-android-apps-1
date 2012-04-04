@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 11
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{75B9D23C-AD37-4E30-8DF0-4C0D22831B03}"
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+		Svn-Managed = True
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|Win32 = Debug|Win32
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75B9D23C-AD37-4E30-8DF0-4C0D22831B03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75B9D23C-AD37-4E30-8DF0-4C0D22831B03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75B9D23C-AD37-4E30-8DF0-4C0D22831B03}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{75B9D23C-AD37-4E30-8DF0-4C0D22831B03}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{75B9D23C-AD37-4E30-8DF0-4C0D22831B03}.Debug|Win32.ActiveCfg = Debug|Any CPU
+		{75B9D23C-AD37-4E30-8DF0-4C0D22831B03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75B9D23C-AD37-4E30-8DF0-4C0D22831B03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75B9D23C-AD37-4E30-8DF0-4C0D22831B03}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{75B9D23C-AD37-4E30-8DF0-4C0D22831B03}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{75B9D23C-AD37-4E30-8DF0-4C0D22831B03}.Release|Win32.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+EndGlobal
