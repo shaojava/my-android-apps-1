@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;com.learning.services_1.Learning_service_featuresActivity.java&apos; to &apos;Learning_service_features.java&apos;&#x0A;- Original project: &apos;learning_service_features&apos;&#x0A;- Original element: &apos;com.learning.services_1.Learning_service_featuresActivity.java&apos;&#x0A;- Renamed element: &apos;com.learning.services_1.Learning_service_features.java&apos;" description="Rename compilation unit &apos;Learning_service_featuresActivity.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;com.learning.services_1{Learning_service_featuresActivity.java" name="Learning_service_features.java" references="false" stamp="1330876037057" version="1.0"/>
+</session>

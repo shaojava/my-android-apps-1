@@ -1,0 +1,44 @@
+package com.learning.activity;
+
+import android.app.Activity;
+import android.content.Intent;
+import android.net.Uri;
+import android.os.Bundle;
+import android.widget.TextView;
+import android.widget.Toast;
+
+public class ActivityNoGUI extends Activity {
+	
+	@Override
+	public void onCreate(Bundle savedInstanceState)
+	{
+		super.onCreate(savedInstanceState);
+		System.out.println("HI");
+		
+	 
+		TextView txt1=new TextView(this);
+		txt1.setText("No Text");
+		
+		setContentView(txt1);
+		Toast.makeText(this, "This is First Test",15).show();
+	try{	
+		Intent intent= new Intent( Intent.ACTION_EDIT ,Uri.parse("http://www.google.com"));
+		startActivity(intent);
+		
+		
+	}
+	catch (Exception e)
+	{
+	 Toast.makeText(this, e.getMessage().toString() , 15);	
+	//	startActivity(new Intent(Intent.ACTION_MAIN));
+	}
+	finally
+	{
+		
+	}
+		
+		
+		
+	}
+
+}
